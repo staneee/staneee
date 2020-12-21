@@ -1,4 +1,15 @@
-### Hi there 👋
+My name is **Hang Yi**
+
+- ❤ Open source enthusiast.
+- 👔 Software engineer.
+- 🌱 Like to research technology
+- 💕 My favorite language: C#、TypeScript、PowerShell
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=staneee&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staneee&theme=cobalt&layout=compact)
+
+Blog: https://www.cnblogs.com/staneee
+
 
 <!--
 **staneee/staneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
