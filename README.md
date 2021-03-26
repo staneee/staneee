@@ -5,12 +5,7 @@ My name is **Hang Yi**
 - 🌱 Like to research technology
 - 💕 My favorite language: C#、TypeScript、PowerShell
 
-<div>
-   <img src="https://github-readme-stats.vercel.app/api?username=staneee&show_icons=true&theme=cobalt" style="width:100%"/>
-</div>
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=staneee&show_icons=true&theme=cobalt)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staneee&theme=cobalt&layout=compact)
 
 Blog: https://www.cnblogs.com/staneee
