@@ -9,8 +9,6 @@ My name is **Hang Yi**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staneee&theme=cobalt&layout=compact)
 
-![yhype](https://hit.yhype.me/github/profile?user_id=26987099)
-
 Blog: https://www.cnblogs.com/staneee
 
 
