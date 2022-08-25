@@ -3,7 +3,7 @@ My name is **Hang Yi**
 - ❤ Open source enthusiast.
 - 👔 Software engineer.
 - 🌱 Like to research technology
-- 💕 My favorite: C#、TypeScript、PowerShell、ASP.NET Core、Angular、Vue
+- 💕 My favorite: DevOps、Docker、PowerShellCore、.NET Core、TypeScript、Angular、Vue
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=staneee&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staneee&theme=cobalt&layout=compact)
